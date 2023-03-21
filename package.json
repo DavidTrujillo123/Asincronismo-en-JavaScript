@@ -21,6 +21,8 @@
   },
   "homepage": "https://github.com/DavidTrujillo123/Asincronismo-en-JavaScript#readme",
   "dependencies": {
+    "node-fetch": "^3.3.1",
     "xmlhttprequest": "^1.8.0"
-  }
+  },
+  "type": "module"
 }
